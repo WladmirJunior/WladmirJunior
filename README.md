@@ -1,55 +1,29 @@
-# Hi, I'm Wladmir Junior 👋
+<div align="center">
 
-Welcome to my GitHub profile.
+# Wladmir Júnior
 
-## 🚀 About me
+Software developer · Belo Horizonte, Brazil
 
-- I build and study software through mobile apps, architecture experiments, and developer tooling.
-- My public work shows hands-on experience with iOS, Android, Flutter, backend integrations, and shell automation.
-- More recently, my commits have focused on improving a cross-platform development environment for macOS and Linux.
+I build developer tools, shape my macOS and Linux workflow, and contribute to open source. I also have a long-running interest in mobile development, especially iOS and Flutter.
 
-## 🛠️ Real technologies from my repositories
+[Repositories](https://github.com/WladmirJunior?tab=repositories) · [Open source activity](https://github.com/WladmirJunior?tab=activity)
 
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 💼 Portfolio highlights
-
-### [dotfiles](https://github.com/WladmirJunior/dotfiles)
-Personal development environment setup for macOS and Linux, with installer support for multiple distributions, Neovim, Zsh, and CLI tooling.
-
-### [Swiftime](https://github.com/WladmirJunior/Swiftime)
-An iOS time management app created to help track work sessions, with data stored in Firebase.
-
-### [Android-Reddit-News](https://github.com/WladmirJunior/Android-Reddit-News)
-An Android app that consumes Reddit posts with pagination support, plus unit and instrumented tests.
-
-### [ViewCodeTemplate](https://github.com/WladmirJunior/ViewCodeTemplate)
-Reusable Xcode templates for protocol-based view code and use case generation in Swift, including RxSwift-based structure.
-
-## 📌 More work
-
-- [MVVM-Architecture](https://github.com/WladmirJunior/MVVM-Architecture) — Swift architecture study using MVVM and RxSwift
-- [ios-network-statistics](https://github.com/WladmirJunior/ios-network-statistics) — iOS experiment for reading app network statistics
-- [igti](https://github.com/WladmirJunior/igti) — Flutter/Dart course content and experiments
-- [Clean-Architecture](https://github.com/WladmirJunior/Clean-Architecture) — architecture-focused Swift study project
-
-## 📊 GitHub stats
-
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WladmirJunior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wladmir Junior GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WladmirJunior&layout=compact&theme=tokyonight" alt="Most used languages by Wladmir Junior" />
 </div>
 
-## 🔗 Portfolio & contact
+## What I’m working on
 
-- GitHub profile: [github.com/WladmirJunior](https://github.com/WladmirJunior)
-- Repositories: [github.com/WladmirJunior?tab=repositories](https://github.com/WladmirJunior?tab=repositories)
+- [dotfiles](https://github.com/WladmirJunior/dotfiles): a personal development environment for macOS and Linux, including shell setup, installers, and developer tools.
+- [GL-RM1 MT7612U Wi-Fi](https://github.com/WladmirJunior/glrm1-mt7612u-wifi): driver and runtime work for using an MT7612U adapter with the GL.iNet GL-RM1 Comet KVM.
+- Open source contributions to projects including [Codex](https://github.com/WladmirJunior/codex) and [mobile_scanner](https://github.com/WladmirJunior/mobile_scanner).
 
-> My portfolio is currently centered on the repositories above, highlighting my work across mobile development, software architecture, and developer experience.
+## Background
+
+My earlier repositories include iOS and Android apps, Swift architecture experiments, and Flutter learning projects. They reflect how I learned and built over time; the projects above are a better snapshot of what I work on now.
+
+## Tools I use
+
+`Shell` · `Swift` · `Dart` · `Flutter` · `Git` · `macOS` · `Linux`
+
+---
+
+Based in Belo Horizonte, MG, Brazil.
