@@ -2,28 +2,25 @@
 
 # Wladmir Júnior
 
-Software developer · Belo Horizonte, Brazil
+Systems, Linux & AI tooling
 
-I build developer tools, shape my macOS and Linux workflow, and contribute to open source. I also have a long-running interest in mobile development, especially iOS and Flutter.
+I build practical tools where Linux systems, automation, and AI-assisted development meet. My work ranges from developer environments and device integrations to improvements in coding agents and developer tools.
 
-[Repositories](https://github.com/WladmirJunior?tab=repositories) · [Open source activity](https://github.com/WladmirJunior?tab=activity)
+[Repositories](https://github.com/WladmirJunior?tab=repositories) · [Pull requests](https://github.com/WladmirJunior?tab=pulls) · [Open source activity](https://github.com/WladmirJunior?tab=activity)
 
 </div>
 
-## What I’m working on
+## Areas I work in
 
-- [dotfiles](https://github.com/WladmirJunior/dotfiles): a personal development environment for macOS and Linux, including shell setup, installers, and developer tools.
-- [GL-RM1 MT7612U Wi-Fi](https://github.com/WladmirJunior/glrm1-mt7612u-wifi): driver and runtime work for using an MT7612U adapter with the GL.iNet GL-RM1 Comet KVM.
-- Open source contributions to projects including [Codex](https://github.com/WladmirJunior/codex) and [mobile_scanner](https://github.com/WladmirJunior/mobile_scanner).
+- Linux systems and developer infrastructure: reproducible environments, shell automation, and tools that make machines easier to configure and maintain. See [dotfiles](https://github.com/WladmirJunior/dotfiles).
+- System integration: connecting software to hardware, drivers, and device interfaces. See [GL-RM1 MT7612U Wi-Fi](https://github.com/WladmirJunior/glrm1-mt7612u-wifi).
+- AI coding tools: improving how coding agents work in real command-line workflows. Recent work includes [Qwen Code](https://github.com/QwenLM/qwen-code/pulls?q=is%3Apr+author%3AWladmirJunior).
+- Open source beyond AI: [a fix to release Android camera frames reliably](https://github.com/juliansteenbakker/mobile_scanner/pull/1764).
 
 ## Background
 
-My earlier repositories include iOS and Android apps, Swift architecture experiments, and Flutter learning projects. They reflect how I learned and built over time; the projects above are a better snapshot of what I work on now.
+I also have experience with mobile development, including iOS, Android, and Flutter. These projects are part of my background; my current focus is systems, Linux, automation, and AI developer tooling.
 
 ## Tools I use
 
-`Shell` · `Swift` · `Dart` · `Flutter` · `Git` · `macOS` · `Linux`
-
----
-
-Based in Belo Horizonte, MG, Brazil.
+`Linux` · `Shell` · `Git` · `macOS` · `AI coding tools` · `Swift` · `Dart` · `Flutter`
